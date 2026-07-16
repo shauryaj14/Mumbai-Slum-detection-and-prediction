@@ -21,7 +21,7 @@ Built as a CREST Award project.
 - `scripts/` - full pipeline: data acquisition, model training, grid construction,
   feature engineering, and expansion prediction
 - `code.ipynb` - main notebook for training and evaluating the detection model
-- `docs/` - full written reports (methodology, results, conclusion, CREST report)
+- `docs/` - full CREST Award report (abstract through conclusion, with methodology and results)
 - `project-site/` - interactive results website
 - `index.html` - this portfolio page
 
