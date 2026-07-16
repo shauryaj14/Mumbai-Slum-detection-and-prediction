@@ -1,7 +1,9 @@
 data/
 *.tif
-*.tiff
+*.pt
+*.pkl
 .ipynb_checkpoints/
 __pycache__/
-*.pyc
 .DS_Store
+scripts/cache/
+src/
